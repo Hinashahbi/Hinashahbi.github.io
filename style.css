@@ -1,0 +1,144 @@
+h1 {
+    position: relative;
+    top: -600px;
+    left: 70px;
+    width: 900px;
+    font-size: 150px;
+    color: rgb(88,16,82);
+}
+
+figure {
+    margin-top:0mm;
+    padding: 0mm;
+    width: 80%;
+    margin-left:0mm;
+}    
+img {
+    height: 30em;
+    width: 93em;
+}
+header nav a {
+    position: relative;
+    top: -550px;
+    display: inline-block;
+    margin-left: 150px;
+    font-size: 35px;   
+    color: purple
+}
+header nav a:hover {
+    color:seagreen;
+}
+section {
+    position: relative;
+    top: -500px;
+    height: 500px;
+    background-color: #f3dcd4
+}
+section h2{
+    position: relative;
+    top: -10px;
+    width: 800px;
+    margin-left: 350px;
+    font-size: 70px;
+    color: rgb(88,16,82);
+}
+section figure img {
+    position: relative;
+    float: left;
+    top: -125px;
+    left: 30px;
+    width: 75mm;
+    border-radius: 10px;
+}
+section figure div {
+    position: relative;
+    top: -50px;
+    left: 70px;
+    margin: -10px 150px 10px 0px;
+    font-size: 15px;
+}
+article {
+    position: relative;
+    top: -300px;
+    height: 500px;
+    background-color: white;
+}
+article h3 {
+    position: relative;
+    top: -10px;
+    width: 800px;
+    margin-left: 30px;
+    font-size: 70px;
+    color: rgb(88,16,82);
+}
+article figure img {
+    position: relative;
+    float: right;
+    top: -125px;
+    left: 30px;
+    width: 100mm;
+    border-radius: 10px;
+    margin-right: -220px;
+}
+article figure div {
+    position: relative;
+    top: -50px;
+    left: 70px;
+    margin: -10px 150px 10px 0px;
+    font-size: 15px;
+}
+aside {
+    position: relative;
+    top: -200px;
+    height: 500px;
+    background-color: #f3dcd4;
+}
+aside h4 {
+    position: relative;
+    top: -17px;
+    width: 800px;
+    margin-left: 30px;
+    font-size: 70px;
+    color: rgb(88,16,82);
+}
+aside figure div img {
+    position: relative;
+    float: right;
+    top: -150px;
+    left: 30px;
+    width: 100mm;
+    border-radius: 10px;
+    margin-right: 100px;
+    height: 500px;
+}
+aside figure div {
+    position: relative;
+    top: -10px;
+    left: 50px;
+    margin: -10px 150px 10px 0px;
+    font-size: 20px;
+    width: 340mm;
+}
+#repeatable-background {
+    background-image: url(white-flower.png);
+    background-position: right bottom;
+    background-repeat: repeat-x;
+    
+}
+footer {
+    background-color: #f3dcd4;
+    display: inline-block;
+    height: 8em;
+    width: 200em;
+    margin-top: 10px;
+    margin-left: 20px;
+}   
+footer p {
+    position: relative;
+    bottom: -90px;
+    left: 500px;
+}
+main h2 {
+    font-size: 10em;
+    color:brown;
+} 
